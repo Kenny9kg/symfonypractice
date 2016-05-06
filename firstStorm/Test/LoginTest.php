@@ -6,7 +6,7 @@
  * Date: 2016/5/3
  * Time: 下午1:34
  */
-require_once ('../DTO/User.php');
+require_once ('./DTO/User.php');
 class LoginTest extends PHPUnit_Framework_TestCase
 {
     public function testUser()
